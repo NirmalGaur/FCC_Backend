@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nirmal Gaur",
+	"description": "brushing up backend concepts",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
