@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nirmal Gaur",
 	"description": "brushing up backend concepts",
-	"keywords": ["freeCodeCamp", "node.js"],
+	"keywords": ["freecodecamp", "node.js"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
